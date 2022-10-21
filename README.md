@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Last contributions:
++ Subgraph for MakerDAO
+(https://github.com/protofire/maker-protocol-subgraph)
++ Subgraph for Lens Protocol
+(https://github.com/rtomas/lens-protocol-subgraph)
+(https://thegraph.com/hosted-service/subgraph/rtomas/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomas&langs_count=6)
 
 

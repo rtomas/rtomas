@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 Last contributions:
++ OpenPayroll on ink! for Polkadot.
+  + https://github.com/w3f/Grants-Program/pull/1592
 + Smart contracts and backend for CoreZero 
   + https://github.com/neutral-ways   
 + Subgraph for MakerDAO

@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 Last contributions:
-+ OpenPayroll on ink! for Polkadot.
++ Open DreamColors art&educational project in ink! and next.js with useink library
+  + https://github.com/rtomas/openColors
+  + https://github.com/rtomas/openColors-web
+  + https://opencolors.tomasrawski.com.ar/
++ OpenPayroll in ink! for Polkadot.
   + https://github.com/w3f/Grants-Program/pull/1592
 + Smart contracts and backend for CoreZero 
   + https://github.com/neutral-ways   
@@ -14,19 +18,3 @@ Last contributions:
   + https://github.com/rtomas/mmd-GraphSchema
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomas&langs_count=6)
-
-
-<!--
-**rtomas/rtomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

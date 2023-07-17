@@ -6,6 +6,7 @@ Last contributions:
   + https://github.com/rtomas/openColors-web
   + https://opencolors.tomasrawski.com.ar/
 + OpenPayroll in ink! for Polkadot.
+  + [Smart Contract project](https://github.com/polkadrys/openPayroll)
   + https://github.com/w3f/Grants-Program/pull/1592
 + Smart contracts and backend for CoreZero 
   + https://github.com/neutral-ways   

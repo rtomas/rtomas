@@ -14,7 +14,6 @@ Last contributions:
   + https://github.com/protofire/maker-protocol-subgraph
 + Subgraph for Lens Protocol
   + https://github.com/rtomas/lens-protocol-subgraph
-  + https://thegraph.com/hosted-service/subgraph/rtomas/
 + Graphql.schema to mermaid
   + https://github.com/rtomas/mmd-GraphSchema
 

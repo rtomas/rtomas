@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 Last contributions:
++ Open DreamColors art&educational project in ink! and next.js with useink library
+  + https://github.com/rtomas/openColors
+  + https://github.com/rtomas/openColors-web
+  + https://opencolors.tomasrawski.com.ar/
 + OpenPayroll in ink! for Polkadot.
   + [Smart Contract project](https://github.com/polkadrys/openPayroll)
   + [Front-end project](https://github.com/polkadrys/open-payroll-web/)

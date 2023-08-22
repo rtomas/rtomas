@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 Last contributions:
++ Awarded at the Fuel Network hackathon
+  + [https://dorahacks.io/hackathon/sway-summer-hackathon](https://dorahacks.io/hackathon/sway-summer-hackathon/results)
 + Open DreamColors art&educational project in ink! and next.js with useink library
   + https://github.com/rtomas/openColors
   + https://github.com/rtomas/openColors-web

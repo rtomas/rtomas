@@ -2,7 +2,8 @@
 
 Last contributions:
 + Tech tutorials/docs
-  + https://rtomas.hashnode.dev/  
+  + https://rtomas.hashnode.dev/
++ [A two-factor secure way to store your wallets private key.](https://github.com/rtomas/key-kiss)
 + Awarded at the Fuel Network hackathon
   + [https://dorahacks.io/hackathon/sway-summer-hackathon](https://dorahacks.io/hackathon/sway-summer-hackathon/results)
 + Open DreamColors art&educational project in ink! and next.js with useink library

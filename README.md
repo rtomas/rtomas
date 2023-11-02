@@ -9,7 +9,8 @@ Last contributions:
 + [Subgraph for MakerDAO](https://github.com/protofire/maker-protocol-subgraph/tree/dev)
 + [Subgraph for Lens Protocol](https://github.com/rtomas/lens-protocol-subgraph)
 + [A two-factor way to store your wallets private key](https://github.com/rtomas/key-kiss)
++ [An animated image on-chain](https://github.com/rtomas/animatedImageOnChain-UI)
+  
 + [Tech articles](https://rtomas.hashnode.dev/)
-+ [Dream-Colors project in ink! and next.js with use-ink library](https://github.com/rtomas/openColors)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomas&hide=javascript,css,scss,html&theme=tokyonight)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Last contributions:
+Some contributions:
 + OpenPayroll in ink! for Polkadot.
   + [Smart Contract project (ink!)](https://github.com/polkadrys/openPayroll)
   + [next.js Front-end project (next.js)](https://github.com/polkadrys/open-payroll-web/)
@@ -10,7 +10,7 @@ Last contributions:
 + [Subgraph for Lens Protocol](https://github.com/rtomas/lens-protocol-subgraph)
 + [A two-factor way to store your wallets private key](https://github.com/rtomas/key-kiss)
 + [An animated image on-chain](https://github.com/rtomas/animatedImageOnChain-UI)
-  
-+ [Tech articles](https://rtomas.hashnode.dev/)
+
+[Tech articles](https://rtomas.hashnode.dev/)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomas&hide=javascript,css,scss,html&theme=tokyonight)

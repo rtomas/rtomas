@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Some contributions:
++ [Animated Image on-chain in Solidity](https://github.com/rtomas/animatedImageOnChain-SC)
 + OpenPayroll in ink! for Polkadot.
   + [Smart Contract project (ink!)](https://github.com/polkadrys/openPayroll)
   + [next.js Front-end project (next.js)](https://github.com/polkadrys/open-payroll-web/)

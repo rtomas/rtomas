@@ -6,6 +6,7 @@ Some contributions:
   + [Smart Contract project (ink!)](https://github.com/polkadrys/openPayroll)
   + [next.js Front-end project (next.js)](https://github.com/polkadrys/open-payroll-web/)
 + [Smart Contract Awarded at Fuel Network hackathon](https://dorahacks.io/hackathon/sway-summer-hackathon/results)
+  + [Github Repository](https://github.com/ankas-lab/open-payroll-sway)  
 + Smart contracts (solidity) for CoreZero
 + [Subgraph for MakerDAO](https://github.com/protofire/maker-protocol-subgraph/tree/dev)
 + [Subgraph for Lens Protocol](https://github.com/rtomas/lens-protocol-subgraph)
